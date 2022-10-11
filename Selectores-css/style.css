@@ -1,0 +1,16 @@
+h1{
+    color: aqua;
+    background-color: black;
+}
+*{
+    color: red;
+}
+p.parrafoprincipal{
+    color: yellowgreen;
+}
+p.parrafosecundario{
+    color: blueviolet;
+}    
+body{
+    background-color: aqua;
+}
