@@ -1,0 +1,27 @@
+ol{
+    list-style-type: upper-roman;
+}
+li{
+    color: yellow;
+    background-color: black;
+}
+dt.textoverde{
+    color: green;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: smaller;
+}
+dt.textoazul{
+    color: blue;
+}
+dt{
+    font-weight: 300;
+    font-style: italic;
+    background-color: yellow;
+    border-top-width: 3px;
+    border-color: aqua;
+    border-style: dotted;
+    padding: 3px;
+    width: 70px ;
+}
