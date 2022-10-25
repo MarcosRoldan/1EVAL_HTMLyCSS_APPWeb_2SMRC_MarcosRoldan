@@ -1,0 +1,9 @@
+main :first-child{
+    color: blue;
+}
+:link{
+    color: green;
+}
+:visited{
+    color: red;
+}
